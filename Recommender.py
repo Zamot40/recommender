@@ -19,7 +19,7 @@ dataset = pd.read_csv('C:\\Users\CoolT\Documents\Jupyternotebook3\WhiteAwayCase\
 # In[6]:
 
 
-dataset
+
 
 
 # In[7]:
